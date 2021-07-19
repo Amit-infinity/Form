@@ -1,0 +1,41 @@
+body{
+    background-color: lightpink;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    color: lightskyblue;
+    text-transform: uppercase;
+    text-align: center;
+    text-shadow: 2px 2px 2px darkblue;
+
+}
+button{
+    background-color : lime;
+}
+
+input[type="submit"]{
+    color: black;
+    background-color: rgb(148, 235, 155);
+    border-radius: 6px;
+}
+
+input[type="reset"]{
+    color: black;
+    background-color: rgb(148, 235, 155);
+    border-radius: 6px;
+}
+
+table{
+    background-color: rgba(167, 182, 199, 0.795);
+    border-radius: 10px;
+    border-collapse: collapse;
+    text-align: center;
+}
+th,td{
+    text-align: left;
+    padding: 5px;
+    margin-left: 10em;
+    text-align: center;
+}
